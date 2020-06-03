@@ -16,3 +16,8 @@
 2. https://github.com/kiritsonagra/code_of_clans
 3. https://www.guru99.com/using-contains-sbiling-ancestor-to-find-element-in-selenium.html
 4. https://www.pineboat.in/post/css-selectors-selenium-webdriver-find-element-xpath-replaced/
+
+# TO-DO
+1. Buat agar bisa baca file .csv
+2. Buat front end untuk upload file .csv
+3. Bisa buat dengan Flask Framework saja
